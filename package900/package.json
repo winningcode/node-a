@@ -1,0 +1,11 @@
+{
+  "name": "package900",
+  "version": "1.0.0",
+  "description": "This is just a demo package to publish in npm",
+  "main": "myModule",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
